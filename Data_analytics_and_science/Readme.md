@@ -5,7 +5,7 @@ Aquí recopilo proyectos que combinan **exploración de datos, modelado estadís
 
 ## 📊 Proyectos Destacados
 
-### 1. [Nombre del Proyecto 1](./project_1/)
-**Descripción breve:** Análisis exploratorio y modelado predictivo usando Python (pandas, scikit-learn, matplotlib).  
-**Objetivo:** Detectar patrones de comportamiento y optimizar decisiones de negocio.  
-**Tecnologías:** `Python`, `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`, `Jupyter`
+### 1. [Proyecto Master Pontia Vision Artificial](./project_1/)
+**Descripción breve:** Extracción de datos, análisis exploratorio y modelado predictivo
+**Objetivo:** Revisar datos actuales, limpieza y propuesta en tabla relacional. Propuesta de identificación de tipo de fruta automatica.  
+**Tecnologías:** `Python`(`Pandas`, `NumPy`, `Scikit-learn`, `Tensorflow/Keras`, `Matplotlib`, `Seaborn`), `Jupyter`, `MySQL`, `Power BI`
