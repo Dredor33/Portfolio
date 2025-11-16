@@ -5,7 +5,7 @@ Aquí recopilo proyectos que combinan **exploración de datos, modelado estadís
 
 ## 📊 Proyectos Destacados
 
-### 1. [Proyecto Master Pontia Vision Artificial](./project_1/)
+### 1. [Proyecto Master Pontia Vision Artificial](./Proyecto_master_final/)
 **Descripción breve:** Extracción de datos, análisis exploratorio y modelado predictivo
 **Objetivo:** Revisar datos actuales, limpieza y propuesta en tabla relacional. Propuesta de identificación de tipo de fruta automatica.  
 **Tecnologías:** `Python`(`Pandas`, `NumPy`, `Scikit-learn`, `Tensorflow/Keras`, `Matplotlib`, `Seaborn`), `Jupyter`, `MySQL`, `Power BI`
